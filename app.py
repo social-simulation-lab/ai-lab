@@ -56,6 +56,3 @@ ax.set_xlabel("Vòng mô phỏng")
 ax.set_ylabel("Mức độ Quan điểm (-1: Cực đoan A, +1: Cực đoan B)")
 ax.set_title("Sự hội tụ và Phân cực Quan điểm Xã hội")
 st.pyplot(fig)
-Đã gửi
-Soạn
-Viết cho
